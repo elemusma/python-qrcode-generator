@@ -1,7 +1,7 @@
 import qrcode
 
-img = qrcode.make('https://brownsurfing.com/')
+img = qrcode.make('https://latinowebstudio.com/')
 
 type(img)
 
-img.save('qrcode.png')
+img.save('latinowebstudio.png')
